@@ -129,4 +129,4 @@ dmypy.json
 .pyre/
 
 # SonarQube scan results
-.scannerwork/
+.scannerwork

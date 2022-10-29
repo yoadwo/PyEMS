@@ -1,7 +1,3 @@
-# PyEMS
-A clone of https://sourceforge.net/projects/pyems/ for testing purposes
-
-# From the original author:
 pyems - Python/TIBCO EMS interface
 This requires Pyrex-0.9.3.1 and TIBCO EMS 4.2 installed to compile
 It is only tested on MacOS X 10.4.x with Python 2.4.x.
